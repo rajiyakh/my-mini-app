@@ -1,14 +1,16 @@
 {
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjIzNzI3NywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVFM2YxODdDMDYxRDkyNDczNkM3ODJiYzg4RUI0NThDREFBMzYzMDQifQ",
+    "payload": "eyJkb21haW4iOiJmYXJtaW5pbmcudmVyY2VsLmFwcCJ9",
+    "signature": "f7CCC86WbXZDQKPQiATczh68n57UfQmHInVjlFcIYDRZD49gcYZ8GHmCGl1yLIM59cn4ncnel+qvfjALkQ25mxw="
   },
   "frame": {
     "version": "1",
     "name": "My Farcaster Mini App",
     "iconUrl": "https://farmining.vercel.app/icon.png",
     "homeUrl": "https://farmining.vercel.app",
-    "splashBackgroundColor": "#0d0d14"
+    "splashImageUrl": "https://farmining.vercel.app/splash.png",
+    "splashBackgroundColor": "#0d0d14",
+    "webhookUrl": "https://farmining.vercel.app/api/webhook"
   }
 }
