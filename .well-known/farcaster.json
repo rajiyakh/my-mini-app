@@ -1,0 +1,14 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "My Farcaster Mini App",
+    "iconUrl": "https://farmining.vercel.app/icon.png",
+    "homeUrl": "https://farmining.vercel.app",
+    "splashBackgroundColor": "#0d0d14"
+  }
+}
