@@ -1,0 +1,18 @@
+my-mini-app/
+├── index.html
+└── .well-known/
+    └── farcaster.json   ← {
+  "frame": {
+    "name": "Far Mining",
+    "version": "1",
+    "iconUrl": "https://farmining.vercel.app/icon.png",
+    "homeUrl": "https://farmining.vercel.app",
+    "imageUrl": "https://farmining.vercel.app/image.png",
+    "splashImageUrl": "https://farmining.vercel.app/splash.png",
+    "splashBackgroundColor": "#000069",
+    "webhookUrl": "https://farmining.vercel.app/api/webhook",
+    "subtitle": "Connect and share instantly.",
+    "description": "Experince the future of social networking.",
+    "primaryCategory": "education"
+  }
+}
